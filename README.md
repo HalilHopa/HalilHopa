@@ -1,5 +1,5 @@
 # README
-![snake svg](https://github.com/HRNGR/HRNGR/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/HalilHopa/HalilHopa/blob/output/github-contribution-grid-snake.svg)
 <h3 align="center">Hey there, I'm Halil  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <p> <img alt="Coding" width="360" height="200" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/World_Map_Blank.svg" >
 <h3 align="center">Join to my AWS and DEVOPS Journey
