@@ -6,10 +6,10 @@
 
 <a href="#"><img width="50%" height="auto" src="![image](https://user-images.githubusercontent.com/96360040/158347720-eccfe991-1374-49d0-a3b7-3047b362fe7c.png)" height="75px"/></a>
 
-## <img alt="Coding" width="100" height="100" src="https://user-images.githubusercontent.com/96360040/159109665-cabace91-a877-4d8c-87a9-71cf96c8feca.png" width="15%"> About Me <img alt="Coding" width="180" height="100" src="https://user-images.githubusercontent.com/96360040/159109581-3db59e5e-0c1d-4ddf-8cb0-58c58185f07c.png" >
+## <img alt="Coding" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C4D03AQFWVLe_XoC25g/profile-displayphoto-shrink_800_800/0/1637298975606?e=1652918400&v=beta&t=QtRq1hX5eL21l6ExRNpccL0D26faAZw21sxeUgkRLRU" width="15%"> About Me <img alt="Coding" width="180" height="100" src="https://user-images.githubusercontent.com/96360040/159109581-3db59e5e-0c1d-4ddf-8cb0-58c58185f07c.png" >
 
 - 👋 Hi, I’m @Halil Hopa
-- 👨‍🎓 I’m an Electronics and Communications M.Sc. Engineer
+- 👨‍🎓 I’m Systems Engineer
 - 👨‍🏫 I’m interested in IT, Automation and Electronic
 - 👀 I’m currently learning AWS and DevOps 
 - 🥇 I like 🏊‍♂, ⛹‍♂, 🚵‍♂, 🎣 and i love cats 🐈 especially GITHUB CAT <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" width="4%">
@@ -25,9 +25,8 @@
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-  [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="white" alt="linkedin" height="30" width="40" />](https://www.linkedin.com/in/Halil-gür-98190267/)
- [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/600px-Instagram-Icon.png?20190314235631" background-color="white" alt="instagram" height="30" width="40" />](https://www.instagram.com/gurHalil/)
- [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" background-color="white" alt="instagram" height="30" width="40" />](mailto:gurHalil@gmail.com)
+  [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="white" alt="linkedin" height="30" width="40" />](https://www.linkedin.com/in/halilhopa/)
+ [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" background-color="white" alt="instagram" height="30" width="40" />](mailto:halilhp@gmail.com)
 
 <p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalilHopa&langs_count=10&theme=cobalt&layout=compact" alt="Halil" /></p>
 <br><br>
