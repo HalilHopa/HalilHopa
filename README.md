@@ -2,14 +2,14 @@
 ![snake svg](https://github.com/HalilHopa/HalilHopa/blob/output/github-contribution-grid-snake.svg)
 <h3 align="center">Hey there, I'm Halil  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <p> <img alt="Coding" width="360" height="200" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/World_Map_Blank.svg" >
-<h3 align="center">Join to my DEVOPS Journey
+<h3 align="center">Join to my DATA Journey
 
 <a href="#"><img width="50%" height="auto" src="![image](https://user-images.githubusercontent.com/96360040/158347720-eccfe991-1374-49d0-a3b7-3047b362fe7c.png)" height="75px"/></a>
 
 ## <img alt="Coding" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C4D03AQFWVLe_XoC25g/profile-displayphoto-shrink_800_800/0/1637298975606?e=1652918400&v=beta&t=QtRq1hX5eL21l6ExRNpccL0D26faAZw21sxeUgkRLRU" width="15%"> About Me <img alt="Coding" width="180" height="100" src="https://user-images.githubusercontent.com/96360040/159109581-3db59e5e-0c1d-4ddf-8cb0-58c58185f07c.png" >
 
 - 👋 Hi, I’m @Halil Hopa
-- 👨‍🎓 I’m Cloud and Devops Engineer
+- 👨‍🎓 I’m Cloud and Data Engineer
 - 👨‍🏫 I’m interested in Cloud, Devops and Data
 - 👀 I’m currently learning and expanding my AWS and DevOps knowledge
 - 🥇 I like 🏊‍♂, ⛹‍♂, 🚵‍♂, 🎣 and i love cats 🐈 especially GITHUB CAT <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" width="4%">
